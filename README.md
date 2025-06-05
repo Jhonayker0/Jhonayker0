@@ -92,4 +92,3 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="50" height="50"/> 
   </a>
 </p>
----
