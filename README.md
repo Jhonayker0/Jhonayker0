@@ -5,7 +5,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **Universidad del Norte**
 
