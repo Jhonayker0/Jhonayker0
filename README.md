@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Universidad del Norte**
 
-- 📫 How to reach me **jhonaykerecheverria@gmail.com**
+- 📫 How to reach me **jn.echeverria2005@gmail.com**
   
 - ⚡ Fun fact **I love sports and art**
 
